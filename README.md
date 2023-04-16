@@ -17,6 +17,9 @@
     <img src="https://codecov.io/gh/cypress-io/cypress-realworld-app/branch/develop/graph/badge.svg" />
   </a>
 
+
+
+
   <a href="https://percy.io/cypress-io/cypress-realworld-app">
     <img src="https://percy.io/static/images/percy-badge.svg" />
   </a>
@@ -53,6 +56,8 @@ A payment application to demonstrate <strong>real-world</strong> usage of <a hre
 
 ## Getting Started
 
+
+
 The Cypress Real-World App (RWA) is a full-stack Express/React application backed by a local JSON database ([lowdb]).
 
 The app is bundled with [example data](./data/database.json) (`data/database.json`) that contains everything you need to start using the app and run tests out-of-the-box.
@@ -63,6 +68,9 @@ The app is bundled with [example data](./data/database.json) (`data/database.jso
 > Example users can be seen by running `yarn list:dev:users`.
 
 ### Prerequisites
+
+
+
 
 The only requirement for this project is to have [Node.js](https://nodejs.org/en/) **version 14** installed on your machine. Refer to the [.node-version](./.node-version) file for the exact version.
 
@@ -254,7 +262,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+<!-- ALL-CONTRIBUTORS-LIST:END
+
+ -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
